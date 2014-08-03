@@ -1,4 +1,4 @@
-## Sane Git Aliases
+### Sane Git Aliases
 
 curl -L  https://raw.github.com/PSeitz/GitAliases/master/gitaliases.sh | sh
 
