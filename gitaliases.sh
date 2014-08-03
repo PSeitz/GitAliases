@@ -6,4 +6,4 @@ git config --global alias.bam push
 git config --global alias.r rebase
 git config --global alias.m mergetool
 git config --global alias.c commit
-git config --global alias.all "add -A
+git config --global alias.all "add -A"
