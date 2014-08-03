@@ -1,4 +1,7 @@
-#!/bin/bash
+set -e
+
+echo "WHOA"
+
 git config --global alias.s status
 git config --global alias.f fetch
 git config --global alias.bam push
