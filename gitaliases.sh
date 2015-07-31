@@ -9,4 +9,5 @@ git config --global alias.c commit
 git config --global alias.all "add -A"
 git config --global alias.cm "commit -m"
 git config --global alias.last 'log -1 HEAD'
-git config --global alias.werfdenkramweg 'clean -fd'
+git config --global alias.swipe 'clean -fd'
+git config --global core.preloadindex true
